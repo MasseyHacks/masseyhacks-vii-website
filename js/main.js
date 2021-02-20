@@ -29,17 +29,17 @@ var modalDataset = ["https://devpost.com/software/hydrolife","https://devpost.co
 $(function () {
     console.log(`
 
-███╗   ███╗██╗  ██╗ ██████╗
-████╗ ████║██║  ██║██╔════╝
-██╔████╔██║███████║███████╗
-██║╚██╔╝██║██╔══██║██╔═══██╗
-██║ ╚═╝ ██║██║  ██║╚██████╔╝
-╚═╝     ╚═╝╚═╝  ╚═╝ ╚═════╝
-                            
+███╗   ███╗██╗  ██╗███████╗
+████╗ ████║██║  ██║╚════██║
+██╔████╔██║███████║    ██╔╝
+██║╚██╔╝██║██╔══██║   ██╔╝ 
+██║ ╚═╝ ██║██║  ██║   ██║  
+╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝  
+
 Developed by: David Hui and James Xu.
 Made in Canada.
 
-Copyright (c) 2019 MasseyHacks.
+Copyright (c) 2021 MasseyHacks.
 Website text and code licensed under MIT. Audiovisual assets are not to be used on other sites without written permission from MasseyHacks.`);
     
     var rellax = new Rellax('.rellax');

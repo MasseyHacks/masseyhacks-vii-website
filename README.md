@@ -1,2 +1,2 @@
-# MasseyHacks VI Website
+# MasseyHacks VII Website
 
