@@ -757,8 +757,8 @@ footer {
 }
 
 .gold img {
-    max-height: 400px;
-    max-width: 600px;
+    max-height: 500px;
+    max-width: 900px;
     /*max-width: 95%;*/
     margin-left: 10px;
     margin-right: 10px;
@@ -768,7 +768,7 @@ footer {
 }
 
 .silver img {
-    max-height: 400px;
+    max-height: 300px;
     max-width: 400px;
     margin-left: 10px;
     margin-right: 10px;
