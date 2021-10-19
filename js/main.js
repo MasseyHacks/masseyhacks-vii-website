@@ -74,12 +74,6 @@ Website text and code licensed under MIT. Audiovisual assets are not to be used 
         navState = !navState;
     });
 
-    $(".project").each(function () {
-       $(this).click(function (){
-           var url = modalDataset[parseInt($(this).data("dataset-index"))];
-           window.open(url,'_blank');
-       })
-    });
 
     $(document).mouseup(e => {
         if (!$mainNav.is(e.target) // if the target of the click isn't the container...
