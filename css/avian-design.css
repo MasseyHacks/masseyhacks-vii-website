@@ -439,13 +439,7 @@ nav:hover {
 /* Past Projects */
 
 .project {
-    /*height: 50vh;*/
-    /*padding: 30px;*/
     margin: 5px;
-    /*-webkit-box-shadow: 9px 9px 20px -7px rgba(0,0,0,0.5);*/
-    /*-moz-box-shadow: 9px 9px 20px -7px rgba(0,0,0,0.5);*/
-    /*box-shadow: 9px 9px 20px -7px rgba(0,0,0,0.5);*/
-    /*max-width: 300px;*/
 }
 
 .project h4 {
@@ -474,45 +468,6 @@ nav:hover {
 .project-image:hover {
     transform: scale(1.05);
 }
-
-/*.row:nth-of-type(1) > .project:nth-of-type(2):hover {*/
-/*    transform: scale(1.1) translate(10%, -10%);*/
-/*}*/
-
-/*.row:nth-of-type(2) > .project:nth-of-type(2):hover {*/
-/*    transform: scale(1.1) translate(10%, 10%);*/
-/*}*/
-
-/*.row:nth-of-type(2) > .project:nth-of-type(1):hover {*/
-/*    transform: scale(1.1) translate(-10%, 10%);*/
-/*}*/
-
-/*#project1 div.project-bg {*/
-/*    !*background: #ff8040;*!*/
-/*    padding: 5px;*/
-/*}*/
-
-/*#project1 div.project-image {*/
-/*    height: 15em;*/
-/*    background-image: url("../assets/images/hydrolife.jpg");*/
-/*}*/
-
-/*#project2 div.project-image {*/
-/*    height: 15em;*/
-/*    background-image: url("../assets/scalables/lag++.svg");*/
-/*}*/
-
-/*#project3 div.project-image {*/
-/*    height: 15em;*/
-/*    background-image: url("../assets/scalables/strest.svg");*/
-/*}*/
-
-
-/*#project4 div.project-image {*/
-/*    height: 15em;*/
-/*    background-image: url("../assets/images/hydrolife.jpg");*/
-/*}*/
-
 
 /* Shapes */
 
@@ -882,54 +837,3 @@ footer {
     background-color: rgba(200, 200, 200, 0.2);
     color: rgba(255, 255, 255, 0.6) !important;
 }
-
-/* STREAMS SECTION */
-/*.stream-title h1 {*/
-/*    text-align: center;*/
-/*}*/
-
-#stream-row > div {
-    border-right: 2px solid rgb(200, 200, 200);
-}
-
-#stream-row > div:last-child {
-    border-right: none;
-}
-
-.section-heading {
-    padding: 0 10px 0 10px;
-    margin-bottom: 10px;
-}
-
-.profile-pic {
-    border-radius: 50%;
-    border: 1px solid rgb(200,200,200);
-    width: 150px;
-    height: 150px;
-    object-fit: cover;
-}
-
-.profile {
-    text-align: center;
-}
-
-.profile-sub {
-    font-size: 0.8em;
-    /*padding: 0 5px 0 5px;*/
-}
-
-.profile:last-child {
-    /*padding-right: 0;*/
-}
-
-.profile-flex {
-    /*display: flex;*/
-    /*flex-flow: row wrap;*/
-    /*justify-content: space-between;*/
-}
-
-.profile-flex::after {
-    /*content: "";*/
-    /*flex: auto;*/
-}
-
